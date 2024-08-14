@@ -1,1 +1,1 @@
-This project was performed as a capstone to my Google Coursera Data Analytics Professional Certificate. The data was sourced from a fictional rideshare company, produce by Coursera and hosted by AWS.I focused on the time period of the last year, August 2023 to July 2024
+This project was performed as a capstone to my Google Coursera Data Analytics Professional Certificate. The data was sourced from a fictional rideshare company, produce by Coursera and hosted by AWS. I focused on the time period of the last year, August 2023 to July 2024
